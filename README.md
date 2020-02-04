@@ -17,5 +17,5 @@ It's a simple UI from the pip-boy in the game Fallout which is one of my favorit
 
 ### Desktop View
 
-![Desktop view](Solar.gif)
+![Desktop view](pip-boy.png)
 
